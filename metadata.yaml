@@ -1,0 +1,37 @@
+_repo: Sielanka--An-Idyll_29305
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Bullick, Thomas H.
+    gutenberg_agent_id: '33828'
+    url: http://www.gutenberg.org/2009/agents/33828
+  - agent_name: Hlasko, Vatslaf A.
+    gutenberg_agent_id: '33827'
+    url: http://www.gutenberg.org/2009/agents/33827
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sienkiewicz, Henryk
+    birthdate: 1846
+    deathdate: 1916
+    gutenberg_agent_id: '1052'
+    url: http://www.gutenberg.org/2009/agents/1052
+    wikipedia: http://en.wikipedia.org/wiki/Henryk_Sienkiewicz
+description: ''
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29305'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PG'
+- !lcsh 'Short stories'
+tableOfContents: 'Sielanka: an idyll -- Orso.'
+title: 'Sielanka: An Idyll'
+url: http://www.gutenberg.org/ebooks/29305
